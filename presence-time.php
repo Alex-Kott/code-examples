@@ -23,7 +23,7 @@
             'date'      => $date->format('Y-m-d'),
             //'dateFrom'  => $date->format('Y-m-d'),
             //'dateTo'  => $date->format('Y-m-d'),
-            'appkey' => 'FHHI82n0BwW1h03gEtdMozYp1o5BMTqx'
+            'appkey' => '******************************'
         );
         $url = "https://app.guardsaas.com/reports/events/export?". http_build_query($parameters);
        
